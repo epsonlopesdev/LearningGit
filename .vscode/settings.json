@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/.cache": true,
+        "**/*.pyc": true,
+        "**/SnakeEyes_CLI.egg-info": true
+    },
+    "explorerExclude.backup": null
+}
