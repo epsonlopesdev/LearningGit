@@ -1,2 +1,1 @@
-# LearningGit
- 
+# Aprendendo Git e GitHub
